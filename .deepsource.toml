@@ -35,6 +35,7 @@ name = "docker"
 
 [[analyzers]]
 name = "secrets"
+enabled = true
 
 [[analyzers]]
 name = "ruby"
